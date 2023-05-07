@@ -4,6 +4,8 @@
 
 **A To-Do List Application to create, track, update, delete those tasks that you have to work on in near future, the tasks you are currently working on or the tasks that you have completed recently.**
 
+[![Live Link](https://img.shields.io/badge/ToDo%20List%20Application-Live%20Link%20-greygreen)](https://track-your-todos.vercel.app/)
+
 #
 
 ## Application Features:
